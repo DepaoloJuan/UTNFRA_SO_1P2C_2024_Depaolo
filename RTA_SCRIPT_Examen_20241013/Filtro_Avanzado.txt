@@ -1,0 +1,4 @@
+Mi IP Publica es: 181.192.66.172
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $6$cJ8AYEsVXc7YKLdC$FRLMcCNfGO79EL1lcOPE5FHOC.EXr4BJmGQ3WcvaskGWL4ifAYzg5ywOKEcE4OtfgQOvkMsSwUEJ.5OuG/nxb.
+La URL de mi repositorio es: https://github.com/DepaoloJuan/UTNFRA_SO_1P2C_2024_Depaolo.git
